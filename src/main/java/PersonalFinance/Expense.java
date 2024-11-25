@@ -27,7 +27,7 @@ public class Expense {
         double amount2 = input.nextDouble();
 
         input.nextLine();  //avoid empty line
-        System.out.print("Category: ");
+        System.out.print("Category : ");
         String category2 = input.nextLine();
 
         //output each expense in one line
